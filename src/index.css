@@ -1,0 +1,44 @@
+
+body{
+  background-color: black;
+}
+
+ a{
+  text-decoration: none;
+  list-style: none;
+  color: rgb(128, 244, 110);
+}
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 90px;
+  list-style: none;
+ 
+  color: rgb(84, 81, 81);
+  font-size: x-large;
+ 
+}
+.heading{
+  text-align: center;
+  font-size: 110px;
+  margin: 120px;
+  color: rgb(71, 238, 76);
+}
+.info{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 10px;
+  color: rgb(108, 247, 112);
+}
+
+.image{
+  height: 300px;
+  width: 250px;
+  margin: 40px;
+}
+.button{
+  padding: 10px 30px 10px 30px;
+  background-color: rgb(72, 244, 115);
+margin-left: 780px;
+}
